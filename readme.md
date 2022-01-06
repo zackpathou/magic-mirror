@@ -1,29 +1,32 @@
 Install nodejs :   
 https://nodejs.org/en/download/
- 
- 
-cd MagicMirror
- 
-npm install
 
-cd vendor
-
-npm install
-
-cd ..
-
-cd fonts
-
-npm install
-
-cd ..
+ensuite après dl le repo va dans le terminal ou cmd 
  
-cd config
+- cd MagicMirror
  
-copy config.js.sample config.js
+- npm install
+
+- cd vendor
+
+- npm install
+
+- cd ..
+
+- cd fonts
+
+- npm install
+
+- cd ..
  
-cd ..
+- cd config
  
-node serveronly
+- copy config.js.sample config.js (afin de garder un back up du fichier config en secours)
+ 
+- cd ..
+
+et puis lance le projet
+ 
+- node serveronly
  
 va sur localhost:8080
