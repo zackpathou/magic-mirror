@@ -1,4 +1,4 @@
-# magic-mirror
+# magic-mirror aller dans la bracnh master
 
 Install nodejs :   
 https://nodejs.org/en/download/
