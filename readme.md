@@ -1,7 +1,7 @@
 Install nodejs :   
 https://nodejs.org/en/download/
 
-ensuite après dl le repo va dans le terminal ou cmd 
+ensuite dl le repo va dans le terminal ou cmd 
  
 - cd MagicMirror
  
