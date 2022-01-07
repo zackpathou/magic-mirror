@@ -1,4 +1,14 @@
-Install nodejs :   
+
+## Screenshots
+
+<img
+		width="800"
+		alt="Capture 1"
+		src="https://github.com/zackpathou/app_tesla_RN/blob/master/assets/WhatsApp%20Image%202021-11-09%20at%2023.56.37.jpeg">
+
+
+
+nodejs :   
 https://nodejs.org/en/download/
 
 ensuite dl le repo va dans le terminal ou cmd 
