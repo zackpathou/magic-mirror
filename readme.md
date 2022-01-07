@@ -41,3 +41,6 @@ et puis lance le projet
 - node serveronly
  
 va sur localhost:8080
+
+## lien des listes des modules 
+https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules
