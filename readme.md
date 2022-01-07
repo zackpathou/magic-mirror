@@ -1,55 +1,32 @@
 Install nodejs :   
 https://nodejs.org/en/download/
- 
-Download MagicMirror
-https://github.com/MichMich/MagicMirror
- 
-Unzip MagicMirror
- 
-Run "cmd"
- 
-cd MagicMirror
- 
-npm install
 
-cd vendor
+ensuite dl le repo va dans le terminal ou cmd 
+ 
+- cd MagicMirror
+ 
+- npm install
 
-npm install
+- cd vendor
 
-cd ..
+- npm install
 
-cd fonts
+- cd ..
 
-npm install
+- cd fonts
 
-cd ..
+- npm install
+
+- cd ..
  
-cd config
+- cd config
  
-copy config.js.sample config.js
+- copy config.js.sample config.js (afin de garder un back up du fichier config en secours)
  
-notepad config.js
-ctrl-f : YOUR_OPENWEATHER_API_KEY
+- cd ..
+
+et puis lance le projet
  
-get your key from https://home.openweathermap.org/api_keys
+- node serveronly
  
-Copy&Paste your key to YOUR_OPENWEATHER_API_KEY
- 
-Install 7-zip : https://www.7-zip.org/
- 
-Download ttp://bulk.openweathermap.org/sample/city.list.json.gz
- 
-Unzip the gz file and find your city
- 
- Change the name of location and insert the location ID
-location: "New York",
-locationID: "",  //ID from 
- 
- 
-cd ..
- 
-node serveronly
- 
-Run chrome
- 
-Enter localhost:8080
+va sur localhost:8080
