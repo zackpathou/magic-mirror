@@ -4,7 +4,7 @@
 <img
 		width="800"
 		alt="Capture 1"
-		src="https://github.com/zackpathou/app_tesla_RN/blob/master/assets/WhatsApp%20Image%202021-11-09%20at%2023.56.37.jpeg">
+		src="https://zupimages.net/up/22/01/o771.png">
 
 
 
