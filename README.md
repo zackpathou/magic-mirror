@@ -1,4 +1,4 @@
-# magic-mirror aller dans la bracnh master
+# magic-mirror aller dans la branch master
 
 Install nodejs :   
 https://nodejs.org/en/download/
