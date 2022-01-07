@@ -6,7 +6,7 @@
 		alt="Capture 1"
 		src="https://zupimages.net/up/22/01/o771.png">
 
-## Modules installés aganda google, horloge, météo, rss bmf et futura science, alexa et ok google.
+## Modules installés : agenda google, horloge, météo, rss bmf et futura science, alexa et ok google.
 
 
 nodejs :   
